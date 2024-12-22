@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    color: #666666;
+    color: #b5f0ff;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     line-height: 1.80857;
@@ -241,7 +241,7 @@ button {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #02a763;
+    color: #b5f0ff;
 }
 
 .navbar-brand {
@@ -267,7 +267,7 @@ button {
 }
 
 .search_bt a:hover {
-    color: #02a763;
+    color: #b5f0ff;
 }
 
 
@@ -330,12 +330,12 @@ button {
 
 .started_bt a:hover {
     color: #faf9f9;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .started_bt.active a {
     color: #faf9f9;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .buy_bt {
@@ -359,7 +359,7 @@ button {
 
 .buy_bt a:hover {
     color: #faf9f9;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 #banner_slider a.carousel-control-prev {
@@ -367,7 +367,7 @@ button {
     top: 410px;
     right: 70px;
     color: #ffffff;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 #banner_slider a.carousel-control-next {
@@ -395,7 +395,7 @@ button {
 #banner_slider .carousel-control-prev:focus,
 #banner_slider .carousel-control-prev:hover {
     color: #ffffff;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 
@@ -417,9 +417,9 @@ button {
 }
 
 hr.border {
-    border: 5px solid #02a763;
+    border: 5px solid #b5f0ff;
     width: 100px;
-    background: #02a763 !important;
+    background: #b5f0ff !important;
     height: 10px;
     border-radius: 10px;
     margin-top: 20px;
@@ -484,12 +484,12 @@ hr.border {
 
 .readmore_btn a:hover {
     color: #fefefd;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .readmore_btn.active a {
     color: #fefefd;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 
@@ -542,7 +542,7 @@ hr.border {
 }
 
 .work_box:hover {
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .work_box:hover .payments_text {
@@ -554,7 +554,7 @@ hr.border {
 }
 
 .work_box.active {
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .work_box .payments_text.active {
@@ -601,7 +601,7 @@ hr.border {
 
 .read_bt a:hover {
     color: #fefefd;
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .work_img {
@@ -640,7 +640,7 @@ hr.border {
     width: 100%;
     float: left;
     font-size: 30px;
-    color: #02a763;
+    color: #b5f0ff;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -655,7 +655,7 @@ hr.border {
 }
 
 .project_text:hover {
-    color: #02a763;
+    color: #b5f0ff;
 }
 
 .hidden_text {
@@ -689,7 +689,7 @@ hr.border {
     float: left;
     font-size: 18px;
     color: #fefefd;
-    background-color: #02a763;
+    background-color: #b5f0ff;
     text-align: center;
     padding: 12px;
     border-radius: 5px;
@@ -786,7 +786,7 @@ hr.border {
 .team_social_icon li a {
     float: left;
     padding: 5px 10px;
-    background-color: #02a763;
+    background-color: #b5f0ff;
     color: #ffffff;
     border-radius: 100%;
     font-size: 19px;
@@ -797,7 +797,7 @@ hr.border {
 }
 
 .team_social_icon li a:hover {
-    background-color: #02a763;
+    background-color: #b5f0ff;
     color: #ffffff;
     box-shadow: 0px 3px 6px -2px #000;
 }
@@ -811,7 +811,7 @@ hr.border {
 .contact_section {
     width: 100%;
     float: left;
-    background-color: #02a763;
+    background-color: #b5f0ff;
     height: auto;
     padding: 90px 0px;
 }
@@ -957,7 +957,7 @@ textarea#comment::placeholder {
 }
 
 .carousel-indicators .active {
-    background-color: #02a763;
+    background-color: #b5f0ff;
 }
 
 .carousel-indicators {
@@ -1008,7 +1008,7 @@ textarea#comment::placeholder {
 }
 
 .footer_menu li a:hover {
-    color: #02a763;
+    color: #b5f0ff;
 }
 
 .dummy_text {
@@ -1078,7 +1078,7 @@ textarea#comment::placeholder {
 }
 
 .footer_social_icon li a:hover {
-    background-color: #02a763;
+    background-color: #b5f0ff;
     color: #ffffff;
 }
 
@@ -1113,7 +1113,7 @@ textarea#comment.update_mail::placeholder {
     color: #ffffff;
     font-size: 16px;
     padding: 10px 0px;
-    background-color: #02a763;
+    background-color: #b5f0ff;
     text-transform: uppercase;
     text-align: center;
 }
@@ -1132,7 +1132,7 @@ textarea#comment.update_mail::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #02a763;
+    background-color: #b5f0ff;
     height: auto;
 }
 
